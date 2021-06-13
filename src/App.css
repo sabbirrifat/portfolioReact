@@ -464,6 +464,7 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+  color: #fff !important;
   position: relative;
   padding-right: 10px;
   padding-left: 0;
@@ -476,7 +477,7 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link, .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: #fff !important;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -528,7 +529,7 @@ a:hover {
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #fff;
+  color: #fff !important;
 }
 
 .navbar-b.navbar-reduce {
@@ -539,7 +540,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: #0078ff !important;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
@@ -554,11 +555,11 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color: #0078ff !important;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: #0078ff !important;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
