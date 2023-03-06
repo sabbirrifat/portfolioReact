@@ -20,7 +20,7 @@ const MainBanner = () => {
             <p class="intro-subtitle">
             <Typewriter
                 options={{
-                  strings: ['Frontend Developer', 'Web Application Developer', 'Web Designer'],
+                  strings: ['Frontend Engineer', 'Web Application Developer', 'React Developer'],
                   autoStart: true,
                   delay: 50,
                   loop: true,
